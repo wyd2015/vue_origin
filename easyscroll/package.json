@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "easyscroll@^1.0.1",
+        "scope": null,
+        "escapedName": "easyscroll",
+        "name": "easyscroll",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\cxz\\git\\yq_web"
+    ]
+  ],
+  "_from": "easyscroll@>=1.0.1 <2.0.0",
+  "_id": "easyscroll@1.0.1",
+  "_inCache": true,
+  "_location": "/easyscroll",
+  "_nodeVersion": "8.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/easyscroll-1.0.1.tgz_1504341862634_0.6091688347514719"
+  },
+  "_npmUser": {
+    "name": "garveyzuo",
+    "email": "1285102881@qq.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "easyscroll@^1.0.1",
+    "scope": null,
+    "escapedName": "easyscroll",
+    "name": "easyscroll",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/easyscroll/-/easyscroll-1.0.1.tgz",
+  "_shasum": "eaffbf4c50f441551f2b1222fac11626a6bc6395",
+  "_shrinkwrap": null,
+  "_spec": "easyscroll@^1.0.1",
+  "_where": "C:\\Users\\cxz\\git\\yq_web",
+  "author": {
+    "name": "GarveyZuo"
+  },
+  "bugs": {
+    "url": "https://github.com/GarveyZuo/EasyScroll/issues"
+  },
+  "dependencies": {},
+  "description": "this is a tiny  scroll bar plugin for vue2.0",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-mKJSymZZ2ainK3ECjujY2kfpvD9Ko/23yWTzl4Jg3Yz3tC2OM23wFdy7jXZQk200pQA9a395SisXu9Votx1o0g==",
+    "shasum": "eaffbf4c50f441551f2b1222fac11626a6bc6395",
+    "tarball": "https://registry.npmjs.org/easyscroll/-/easyscroll-1.0.1.tgz"
+  },
+  "homepage": "https://github.com/GarveyZuo/EasyScroll#readme",
+  "keywords": [
+    "scroll",
+    "vue"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "garveyzuo",
+      "email": "1285102881@qq.com"
+    }
+  ],
+  "name": "easyscroll",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarveyZuo/EasyScroll.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
