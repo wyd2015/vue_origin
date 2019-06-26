@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Build Setup
 
 ``` bash
@@ -25,11 +23,3 @@ package.json
   "devDependencies": "开发环境依赖包，如打包工具、less工具等"
   
 # vue-resource 请求数据资源组件
-=======
-# vue_origin
-vue build by base config
->>>>>>> bc5337003c080a35e77a6b444ac7ccbe092831d0
-=======
-# vue_origin
-vue build by base config
->>>>>>> bc5337003c080a35e77a6b444ac7ccbe092831d0
