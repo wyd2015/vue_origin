@@ -10,3 +10,4 @@ yarn-error.log*
 /.webpack_cache/
 Thumbs.db
 .gitkeep
+.git/
