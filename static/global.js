@@ -8,7 +8,7 @@
 var gl = {
 	// 接口服务器地址
     serverURL: "http://127.0.0.1:8085",
-    websocketURL: 'ws://127.0.0.1:8085',
+    websocketURL: 'ws://192.168.1.182:8085',
 	develop : true,
 	// 用于存储菜单信息
 	menu: {
